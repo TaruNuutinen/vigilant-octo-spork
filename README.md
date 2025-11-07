@@ -11,4 +11,5 @@ Cybersecurity and data privacy
 | 2.11.2025 | 0.5 h | Introduction of Cybersecurity | studying material 2 |
 | 4.11.2025 | 2 h | Lecture 2 | PortSwigger account |
 | 5.11.2025 | 0.5 h | Introduction of Cybersecurity | Quiz 2 |
-| 6.11.2025 | 1.5 h | Introduction of Cybersecurity | studying material 3, Quiz 3 |
+| 6.11.2025 | 3.5 h | Introduction of Cybersecurity | studying material 3, 4 & 5, Quiz 3, 4 & 5 |
+| 7.11.2025 | 15.30-
