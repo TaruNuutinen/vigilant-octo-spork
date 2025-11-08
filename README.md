@@ -9,7 +9,9 @@ Cybersecurity and data privacy
 | 30.10.2025 | 0.5 h | Week 1 | Github repo, Logbook | 
 | 1.11.2025 | 2 h | Introduction of Cybersecurity | studying material 1 & 2, Quiz 1 |
 | 2.11.2025 | 0.5 h | Introduction of Cybersecurity | studying material 2 |
-| 4.11.2025 | 2 h | Lecture 2 | PortSwigger account |
+| 4.11.2025 | 2 h | Lecture 2 | Info material & PortSwigger account |
 | 5.11.2025 | 0.5 h | Introduction of Cybersecurity | Quiz 2 |
 | 6.11.2025 | 3.5 h | Introduction of Cybersecurity | studying material 3, 4 & 5, Quiz 3, 4 & 5 |
 | 7.11.2025 | 0.75 h | Introduction of Cybersecurity | final exam |
+| 8.11.2025 | 1.5 h | PortSwigger | Learning SQL injection and choosing topics |
+
