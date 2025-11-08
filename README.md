@@ -17,5 +17,5 @@ Cybersecurity and data privacy
 
 Notes (Write a short reflection (50-100 words) for each lab you complete. You can use the following questions to guide you: What did you learn? What was the most challenging part?):
 1. lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. <br>
-     Opin, kuinka etsitään haavoittuvuuksia muuttamalla kyselyä ja saamalla aikaiseksi erroreita. Opin myös käyttämään PortSwigger alustaa ja vähän Burp suitea. Opin myös, jos suodattimet on rakennettu sen pohjalle, että kaikista tuotteista näytetään tietyt ja loput piilotetaan, voi saada ihan kaikki näkyviin, myös 'aina piilotetut' tuotteet. 
+     Opin, kuinka etsitään haavoittuvuuksia muuttamalla kyselyä ja saamalla aikaiseksi erroreita. Opin myös käyttämään PortSwigger alustaa ja vähän Burp suitea. Opin myös, jos suodattimet on rakennettu sen pohjalle, että kaikista tuotteista näytetään tietyt ja loput piilotetaan, voi saada ihan kaikki näkyviin, myös 'aina piilotetut' tuotteet. Vaikeinta oli ymmärtää ohjeet, kun kaikki termit ovat vielä ihan uusia. Video selkeytti ja lisäsi paljon ymmärrystä.
 2.  
