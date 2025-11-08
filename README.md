@@ -13,5 +13,9 @@ Cybersecurity and data privacy
 | 5.11.2025 | 0.5 h | Introduction of Cybersecurity | Quiz 2 |
 | 6.11.2025 | 3.5 h | Introduction of Cybersecurity | studying material 3, 4 & 5, Quiz 3, 4 & 5 |
 | 7.11.2025 | 0.75 h | Introduction of Cybersecurity | final exam |
-| 8.11.2025 | 1.5 h | PortSwigger | Learning SQL injection and choosing topics |
+| 8.11.2025 | 2.75 h | PortSwigger | Learning SQL injection and choosing topics, first lab complited |
 
+Notes (Write a short reflection (50-100 words) for each lab you complete. You can use the following questions to guide you: What did you learn? What was the most challenging part?):
+1. lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+     Opin, kuinka etsitään haavoittuvuuksia muuttamalla kyselyä ja saamalla aikaiseksi erroreita. Opin myös käyttämään PortSwigger alustaa ja vähän Burp suitea. Opin myös, jos suodattimet on rakennettu sen pohjalle, että kaikista tuotteista näytetään tietyt ja loput piilotetaan, voi saada ihan kaikki näkyviin, myös 'aina piilotetut' tuotteet. 
+2.  
