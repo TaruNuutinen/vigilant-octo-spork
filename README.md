@@ -14,7 +14,7 @@ Cybersecurity and data privacy
 | 6.11.2025 | 3.5 h | Introduction of Cybersecurity | studying material 3, 4 & 5, Quiz 3, 4 & 5 |
 | 7.11.2025 | 0.75 h | Introduction of Cybersecurity | final exam |
 | 8.11.2025 | 2.75 h | PortSwigger | Learning SQL injection and choosing topics, first lab complited |
-| 9.11.2025 | 12.20- | PortSwigger | SQL injection lab, learning more about vulnerabilities, two authentication labs, two access control labs |
+| 9.11.2025 | 2.5 h | PortSwigger | SQL injection lab, learning more about vulnerabilities, two authentication labs, two access control labs |
 
 Notes (Write a short reflection (50-100 words) for each lab you complete. You can use the following questions to guide you: What did you learn? What was the most challenging part?):
 1. lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. <br>
