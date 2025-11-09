@@ -14,7 +14,7 @@ Cybersecurity and data privacy
 | 6.11.2025 | 3.5 h | Introduction of Cybersecurity | studying material 3, 4 & 5, Quiz 3, 4 & 5 |
 | 7.11.2025 | 0.75 h | Introduction of Cybersecurity | final exam |
 | 8.11.2025 | 2.75 h | PortSwigger | Learning SQL injection and choosing topics, first lab complited |
-| 9.11.2025 | 12.20- | PortSwigger | SQL injection lab, learning about authentication vulnerabilities, two authentication labs |
+| 9.11.2025 | 12.20- | PortSwigger | SQL injection lab, learning more about vulnerabilities, two authentication labs, two access control labs |
 
 Notes (Write a short reflection (50-100 words) for each lab you complete. You can use the following questions to guide you: What did you learn? What was the most challenging part?):
 1. lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. <br>
@@ -25,4 +25,7 @@ Notes (Write a short reflection (50-100 words) for each lab you complete. You ca
    Opin sisäänkirjautumisen haavoittuvuuksista ja kuinka käytetään burp suiten työkaluja brute-force hyökkäykseen. On mielenkiintoista, että tällaisia työkaluja on olemassa. Opin löytämään oikean tunnuksen tai salasanan poikkeavan vastauksen ansiosta. Vaikeinta labissa oli uusien työkalujen omaksuminen. Onneksi luennolla oli näytetty, kuinka labra tehtiin, niin se helpotti löytämään tien ratkaisuun helpommin ja käyttämään työkaluja tehokkaasti.
 4. Lab: 2FA simple bypass <br>
      Opin, että kaksivaiheisen tunnistautumisen voi ohittaa helposti, jos sivustojen kaksivaiheinen tunnistautuminen on kehnosti toteutettu. Pienillä kepulikonsteilla kirjautuminen sivustoille voi onnistua ihan vain käyttäjätunnuksella ja salasanalla. Lähdin tekemään labraa ja läpäisin sen todella nopeasti ihan vahingossa. Eli tämä sivuston kaksivaiheinen tunnistautuminen oli tehty niin kehnosti, että sen pystyi ohittamaan jopa täysin vahingossa. Vaikeampaa labran suorittaminen oli ohjeita noudattamalla.
-5. 
+5. Lab: Unprotected admin functionality <br>
+     Opin, että jos sivustojen toiminnallisuutta ei ole suojattu, pystyy kuka vain esimerkiksi poistamaan minkä tahansa käyttäjä tunnuksen vain löytämällä oikean sivuston. Ei riitä, että sivustot pelkästään piilotetään käyttäjän näkyviltä, jos ne pystyy muuten saavuttamaan. Tätä kutsutaan vertikaalisten käyttöoikeuksien eskaloitumiseksi. Vertikaalisiin oikeuksiin kuuluvat toiminnalliset asiat, kun taas horisontaalisiin käyttöoikeuksiin kuuluvat resurssien käyttöoikeudet. Labra oli aika helppo.
+6. Lab: Unprotected admin functionality with unpredictable URL <br>
+     Opin, että vaikka admin sivuston nimi on vaikea eikä sitä pysty arvaamaan, voi admin-sivuston löytää koodista, esimerkiksi toiminnallisesta javascript osiosta, jollei sitä suojata tai salata esim cryptaamalla tai käyttämällä avainsanaa oikean linkin nimen sijasta. Koko cybersecurity on alueena minulle niin vieras, että kaikki tällainen yksinkertainenkin on mielenkiintoista ja oppimisen määrä on valtavaa. Vaikeinta labrassa oli oppia käyttämään burp-työkalua ja löytää sieltä haluamansa asiat. 
