@@ -15,7 +15,8 @@ Cybersecurity and data privacy
 | 7.11.2025 | 0.75 h | Introduction of Cybersecurity | final exam |
 | 8.11.2025 | 2.75 h | PortSwigger | Learning SQL injection and choosing topics, first lab complited |
 | 9.11.2025 | 2.5 h | PortSwigger | SQL injection lab, learning more about vulnerabilities, two authentication labs, two access control labs |
-| 10.11.2025 | 0.5 h | Independent Learning | Loihde tietoturvakatsaus |
-
+| 10.11.2025 | 0.5 h | Loihde tietoturvakatsaus | Independent Learning |
+| 11.11.2025 | 0.5 h | Lecture 3 | Checking out material |
+| 12.11.2025 | 1.75 h | Lecture 3 | Learning |
 
 
