@@ -1,5 +1,4 @@
-# vigilant-octo-spork
-Cybersecurity and data privacy
+# Cybersecurity and data privacy
 
 # Logbook
 
