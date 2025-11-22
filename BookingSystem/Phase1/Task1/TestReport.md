@@ -7,14 +7,14 @@
 - Testing user registration functionality and identify as many anomalies and vulnerabilities as possible in this area. And after that categorizing findings.
 
 **Scope:**  
-- Tested components:  
-- Exclusions:  
+- Tested components: Registration
+- Exclusions: 
 - Test approach: Grey-box
 
 **Test environment & dates:**  
-- Start:  
-- End:  
-- Test environment details (OS, runtime, DB, browsers):
+- Start: 17:30 21.11.2025
+- End: 17:50 21.11.2025
+- Test environment details (OS, runtime, DB, browsers): 
 
 **Assumptions & constraints:**  
 - e.g., credentials provided, limited time, etc.
