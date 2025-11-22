@@ -26,13 +26,13 @@
 **Short summary (1-2 sentences):**  
 - First web-page penetration testing round, testing registration and finding vulnerabilities and anomalies. Using docker and OWASP ZAP.
 
-**Overall risk level:** (Low / Medium / High / Critical)
+**Overall risk level:** High
 
 **Top 5 immediate actions:**  
-1.  
-2.  
-3.  
-4.  
+1.  Apply all avaible patches to critical vulnerabilities
+2.  Enforce strict input validation, adopt an allow list strategy.
+3.  Apply stringent rules for filenames and paths. 
+4.  Use parameterized queries
 5.  
 
 ---
