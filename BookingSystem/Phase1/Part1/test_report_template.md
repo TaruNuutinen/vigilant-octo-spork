@@ -56,8 +56,9 @@
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
-| F-02 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
+| F-02 | 🔴 High | Path Traversal | To access files or execute commands anywhere on the file-system, Path Traversal attacks will utilize the ability of special-characters sequences. | Screenshot or Burp log |
+| F-03 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
+| F-04 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
 
 ---
 
