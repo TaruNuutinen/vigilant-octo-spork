@@ -33,7 +33,7 @@
 2.  Enforce strict input validation, adopt an allow list strategy.
 3.  Apply stringent rules for filenames and paths. 
 4.  Use parameterized queries
-5.  
+5.  Apply least privilege in database access as possible
 
 ---
 
