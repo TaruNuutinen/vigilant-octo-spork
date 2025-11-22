@@ -17,13 +17,14 @@
 - Test environment details (OS, runtime, DB, browsers): -Debian GNU/Linux 13 (trixie), -Deno 2.5.6 (JavaScript/TypeScript), -PostgreSQL, -Firefox 145 (via ZAP Selenium integration) and Chrome 142 (via ZAP Selenium integration)
 
 **Assumptions & constraints:**  
-- Test executed in isolated enviroment,  , limited time (2 weeks),
+- Test executed in isolated enviroment, Performed with OWASP ZAP, System is being developed in phases and testing the first phase, Limited time (2 weeks), Resource constraint: only one tester, no team
 
 ---
 
 # 2️⃣ Executive Summary
 
 **Short summary (1-2 sentences):**  
+- First web-page penetration testing round, testing registration and finding vulnerabilities and anomalies. Using docker and OWASP ZAP.
 
 **Overall risk level:** (Low / Medium / High / Critical)
 
