@@ -17,5 +17,6 @@
 | 10.11.2025 | 0.5 h | Loihde tietoturvakatsaus | Independent Learning |
 | 11.11.2025 | 0.5 h | Lecture 3 | Checking out material |
 | 12.11.2025 | 1.75 h | Lecture 3 | Learning |
-
+| 21.11.2025 | 6 h | Booking System | creat enviroment and pen testing |
+| 22.11.2025 | 5 h | Booking System | writing raport |
 
