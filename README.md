@@ -19,4 +19,4 @@
 | 12.11.2025 | 1.75 h | Lecture 3 | Learning |
 | 21.11.2025 | 6 h | Booking System | creat enviroment and pen testing |
 | 22.11.2025 | 5 h | Booking System | writing raport |
-
+| 24.11.2025 | 11.45 - | Booking System | finishing raports and task |
