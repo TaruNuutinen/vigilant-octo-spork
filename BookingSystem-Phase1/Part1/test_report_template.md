@@ -12,7 +12,7 @@
 - Test approach: Grey-box
 
 **Test environment & dates:**  
-- Start: 17:30 21.11.2025
+- Start: 17:15 21.11.2025
 - End: 17:50 21.11.2025
 - Test environment details (OS, runtime, DB, browsers): -Debian GNU/Linux 13 (trixie), -Deno 2.5.6 (JavaScript/TypeScript), -PostgreSQL, -Firefox 145 (via ZAP Selenium integration) and Chrome 142 (via ZAP Selenium integration)
 
