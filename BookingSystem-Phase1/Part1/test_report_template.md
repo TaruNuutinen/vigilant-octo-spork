@@ -57,8 +57,14 @@
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
 | F-02 | 🔴 High | Path Traversal | To access files or execute commands anywhere on the file-system, Path Traversal attacks will utilize the ability of special-characters sequences. | Screenshot or Burp log |
-| F-03 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-04 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
+| F-03 | 🟠 Medium | Absence of Anti-CSRF | Forcing a victim to send an HTTP request to a target destination without their knowledge | Burp log or Screenshot |
+| F-04 | 🟠 Medium | Content Security Policy (CSP) header not set | Whitout header XSS and data injection attacks are more possible. | PoC script, screenshot or logs |
+| F-05 | 🟠 Medium | Format String Error | The submitted data of an input string is evaluated as a command by the application. | Screenshot |
+| F-06 | 🟠 Medium | Missing Anti-clickjacking Header | The response does not protect against 'ClickJacking' attacks. It should include either Content-Security-Policy with 'frame-ancestors' directive or X-Frame-Options. | logs or screenshots |
+| F-07 | 🟡 Low | X-Content-Type-Options Header Missing | Allows older versions of Internet Explorer and Chrome to perform MIME-sniffing | Logs or Screenshots |
+| F-08 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
+| F-09 | 🔵 Info | User Agent Fuzzer | Compares the response statuscode and the hashcode of the response body with the original response. | Logs or Screenshots |
+
 
 ---
 
@@ -70,24 +76,6 @@
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
-**Purpose:**  
-- Attach or link your OWASP ZAP scan results (Markdown format preferred).
-
----
-
-**Instructions (CMD version):**
-1. Run OWASP ZAP baseline scan:  
-   ```bash
-   zap-baseline.py -t https://example.com -r zap_report_round1.html -J zap_report.json
-   ```
-2. Export results to markdown:  
-   ```bash
-   zap-cli report -o zap_report_round1.md -f markdown
-   ```
-3. Save the report as `zap_report_round1.md` and link it below.
-
----
-> [!NOTE]
-> 📁 **Attach full report:** → `check itslearning` → **Add a link here**
+> 📁 **Attach full report:** → https://github.com/TaruNuutinen/vigilant-octo-spork/blob/ebff97130266be664df139c7d0ef4db9e64f9fc7/BookingSystem-Phase1/Part1/ZapReport.md
 
 ---
