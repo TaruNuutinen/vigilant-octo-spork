@@ -68,12 +68,6 @@
 
 ---
 
-> [!NOTE]
-> Include up to 5 findings total.   
-> Keep each description short and clear.
-
----
-
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
 > 📁 **Attach full report:** → https://github.com/TaruNuutinen/vigilant-octo-spork/blob/ebff97130266be664df139c7d0ef4db9e64f9fc7/BookingSystem-Phase1/Part1/ZapReport.md
