@@ -21,4 +21,4 @@
 | 22.11.2025 | 5 h | Booking System | writing raport |
 | 24.11.2025 | 1.75 h | Booking System | finishing raports and task |
 | 30.11.2025 | 2 h | Introduction to network; Network security fundamentals | learning |
-| 2.12.2025 | 2 h + 12.00 - | Booking System | Lecture 4 |
+| 2.12.2025 | 7,5 h | Booking System, part 2 | Lecture 4, pen test, the task done |
