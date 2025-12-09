@@ -26,7 +26,7 @@
 | 9.12.2025 | 0.5 h | Booking System phase 2 | finishing report |
 
 
-## Booking System phase 2
+# Booking System phase 2
 
 Crack at least 5 passwords using any methods you prefer.
   - whatsupdoc@looneytunes.tv, carrots123
@@ -36,8 +36,10 @@ Crack at least 5 passwords using any methods you prefer.
   - whysoserious@gothamchaos.net,  chaos123!
     
 Create a report of your cracking process by answering directly in the answer box (or git).
+
 Rekisteröidyin nettisivuille. Katsoin databasesta booking_users tietokannan. Löysin salasanani cryptattuna. Selvitin, että cryptaukseen on käytetty MD5 metodia. Löysin googlesta sivuston https://md5decrypt.net/en/ johon voi syöttää cryptatun salasanan ja sen saa decryptattuna takaisin. Tämä toimi helposti ja nopeasti. Kokeilin database listalta 5 eri käyttäjätunnusta ja salasanaa ja pääsin kaikilla kirjautumaan sisään. Tehtävä tuntui helpolta, onneksi salasanat olivat hauskoja. Olisi tietysti voinut käyttää ja kokeilla erityökaluja, eikä mennä helpoimman kautta.
-Voin todistaa, että kirjautuminen onnistui booking_login_logs tietokannasta ottamallani näyttökuvalla.
+Voin todistaa, että kirjautuminen onnistui booking_login_logs tietokannasta ottamallani näyttökuvalla. Kuvassa näkyy viidellä eri käyttäjätunnuksilla kirjautumista.
+
 <img width="919" height="344" alt="Näyttökuva 2025-12-09 011658" src="https://github.com/user-attachments/assets/fd3e5562-4637-46ed-a807-9f8ed2f5a4ef" />
 
 What is the main difference between Dictionary and Non-Dictionary attacks?
