@@ -23,6 +23,7 @@
 | 30.11.2025 | 2 h | Introduction to network; Network security fundamentals | learning |
 | 2.12.2025 | 7,5 h | Booking System, part 2 | Lecture 4, pen test, the task done |
 | 8.12.2025 | 6 h | Lecture 4, Booking System phase 2 | Learning, created enviroment, zap attack and report, hack passwords, writing report |
+| 9.12.2025 | 10.40 - | Booking System phase 2 | finishing report |
 
 
 #2 Booking System phase 2
