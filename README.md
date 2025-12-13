@@ -25,6 +25,7 @@
 | 8.12.2025 | 6 h | Lecture 4, Booking System phase 2 | Learning, created enviroment, zap attack and report, hack passwords, writing report |
 | 9.12.2025 | 0.5 h | Booking System phase 2 | finishing report |
 | 10.12.2025 | 5 h | Lecture 5, Booking System phase 3 | Learning, startting task, ZAP report |
+| 13.12.2025 | 2 h | Booking System phase 2 | doing task |
 
 # Booking System phase 2
 
