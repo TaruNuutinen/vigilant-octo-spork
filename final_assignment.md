@@ -1,10 +1,10 @@
-#PortSwigger
+# PortSwigger
 
-##Screenshot of dashboard
+## Screenshot of dashboard
 
 <img width="943" height="322" alt="image" src="https://github.com/user-attachments/assets/a9bbc2ca-e21d-4239-a744-7546b3428e7e" />
 
-##Labs
+## Labs
  * SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
  * SQL injection vulnerability allowing login bypass
    
@@ -29,30 +29,30 @@
  * Password reset broken logic
 
 
-#The Booking system project
-##Phase1 Osa1
+# The Booking system project
+## Phase1 Osa1
 Write a short description of each phase of what you did.
 What worked/what didn't work
 What took the most time
 What did you learn from this phase
 
-##Phase1 Osa2
+## Phase1 Osa2
 Write a short description of each phase of what you did.
 What worked/what didn't work
 What took the most time
 What did you learn from this phase
 
-##Phase2
+## Phase2
 Write a short description of each phase of what you did.
 What worked/what didn't work
 What took the most time
 What did you learn from this phase
 
-##Reflektio
+## Reflektio
 And finally, write a reflection (50-100 words) about what you learned during this topic.
 
-#Logbook
-Linkki: 
+# Logbook
+Linkki: https://github.com/TaruNuutinen/vigilant-octo-spork/blob/main/README.md
 Make sure the git repo and the logbook are updated and available.
 Add the link to the Git repo under this heading
 
