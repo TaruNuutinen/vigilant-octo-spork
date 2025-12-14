@@ -1,6 +1,6 @@
 # Cybersecurity and data privacy
 
-# Logbook
+## Logbook
 
 | Date | Used hours | Subject(s) | outcomes | 
 |:---|:---:|:---:|:---:|
@@ -26,9 +26,9 @@
 | 9.12.2025 | 0.5 h | Booking System phase 2 | finishing report |
 | 10.12.2025 | 5 h | Lecture 5, Booking System phase 3 | Learning, startting task, ZAP report |
 | 13.12.2025 | 8 h | Booking System phase 2, PortSwigger | doing task, studing and doing 6 labs |
-| 14.12.2025 | 6 h | PortSwigger | studing and 6 more labs done |
+| 14.12.2025 | 8 h | PortSwigger and Final raport | studing and 6 more labs done, startting write |
 
-# Booking System phase 2
+## Booking System phase 2
 
 Crack at least 5 passwords using any methods you prefer.
   - whatsupdoc@looneytunes.tv, carrots123
