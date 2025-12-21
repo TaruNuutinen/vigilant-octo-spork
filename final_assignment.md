@@ -40,23 +40,16 @@ Tässä osassa vertailtiin haavoittuvuutta edelliseen osaan projektia. Samat zap
 Tässä osiossa keskityttiin salasanojen hakkeroimiseen. Opin käyttämään decryptaus työkaluja ja että MD5 salauksena yksin on erittäin helppo ja todella nopeasti hakkeroitavissa. Tiedostot eivät ole turvassa, vaikka ne olisi salattu. Tämä osio oli aika helppo ja nopea, eniten taisi viedä aikaa Zap hyökkäykset.
 
 ## Reflektio
-Penetraatiotestaus aihealueena sekä muu cyperturvallisuus oli minulle entuudestaan melko vierasta. Hakkerointi podeja spotifystä ja sarjoja areenasta olen katsonut, että ymmärtäisin jotain. Opintojakso oli aika vaike ja raskas ja tuntui vievän paljon aikaa. Samaan aikaan opin erittäin paljon uutta ja oli mielenkiintoista päästä oikeasti käsiksi tekemiseen eikä vain lukea ja kuunnella aiheista. Jatkuvuus ja progressio näissä tehtävissä oli myös miellyttävää. Samoja asioita toistamalla ne jää muistiin oikeasti. Mielelläni olisin tehnyt loputkin osiot tehtävästä, mutta välillä täytyy priorisoida näin. Onneksi tehtävät löytyvät varmaan jonkin aikaa täältä githubista, ehkä vielä palaan niiden pariin harjoittelemaan. Raporttien kirjoittaminen ei ole lempipuuhaani, mutta on ollut hyvä että sitä on ollut pakko myös tehdä. Ainahan niidenkin tekeminen helpottuu. Englannin kieli on ollu minulle myös haaste ja olen oppinut sanastoa tällä opintojaksolla erittäin paljon. 
+Penetraatiotestaus aihealueena sekä muu cyperturvallisuus oli minulle entuudestaan melko vierasta. Hakkerointi podeja spotifystä ja sarjoja areenasta olen katsonut, että ymmärtäisin jotain. Opintojakso oli aika vaike ja raskas ja tuntui vievän paljon aikaa. Samaan aikaan opin erittäin paljon uutta ja oli mielenkiintoista päästä oikeasti käsiksi tekemiseen eikä vain lukea ja kuunnella aiheista. Jatkuvuus ja progressio näissä tehtävissä oli myös miellyttävää. Samoja asioita toistamalla ne jää muistiin oikeasti. Mielelläni olisin tehnyt loputkin osiot tehtävästä, mutta välillä täytyy priorisoida näin. Onneksi tehtävät löytyvät varmaan jonkin aikaa täältä githubista, ehkä vielä palaan niiden pariin harjoittelemaan. Raporttien kirjoittaminen ei ole lempipuuhaani, mutta on ollut hyvä että sitä on ollut pakko myös tehdä. Ainahan niidenkin tekeminen raportti raportilta helpottuu. Englannin kieli on ollu minulle myös haaste ja olen oppinut sanastoa tällä opintojaksolla erittäin paljon. 
 
 # Logbook
 Linkki: https://github.com/TaruNuutinen/vigilant-octo-spork/blob/main/README.md
 
-Total hours: 
+Total hours: 72 h
 Hours per topic
-* PortSwigger:
-* The Booking System project:
-* Muut:
+* PortSwigger: 14 h
+* The Booking System project: 39 h
+* Muut: 19 h
   
-Step 5: (Optional) Add a heading in your document → Feedback
-
-You can write about anything you want regarding the course and outside of the course.
-Step 6: Submit the assignment
-
-Add a document as a file or link
-Step 7: Wait for the final grade
-
-The teacher takes the assessment to Peppi.
+# Feedback
+Kurssi oli erittäin mielenkiintoinen ja mukavan haastava. Opin erittäin paljon kurssin aikana ja toivon että opit pääsevät käyttöön. Pidän sinun huumorista ja kiva, että sitä on mukana tehtävissä! Kiitos kurssista!
