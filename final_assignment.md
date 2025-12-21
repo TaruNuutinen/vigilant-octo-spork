@@ -45,8 +45,9 @@ Penetraatiotestaus aihealueena sekä muu cyperturvallisuus oli minulle entuudest
 # Logbook
 Linkki: https://github.com/TaruNuutinen/vigilant-octo-spork/blob/main/README.md
 
-Total hours: 72 h
-Hours per topic
+## Total hours: 72 h
+
+## Hours per topic:
 * PortSwigger: 14 h
 * The Booking System project: 39 h
 * Muut: 19 h
