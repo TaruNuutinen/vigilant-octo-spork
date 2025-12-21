@@ -27,6 +27,9 @@
 | 10.12.2025 | 5 h | Lecture 5, Booking System phase 3 | Learning, startting task, ZAP report |
 | 13.12.2025 | 8 h | Booking System phase 2, PortSwigger | doing task, studing and doing 6 labs |
 | 14.12.2025 | 8 h | PortSwigger and Final raport | studing and 6 more labs done, startting write |
+| 15.12.2025 | 1 h | Booking System project phase 3 | testing |
+| 18.12.2025 | 2 h | Final raport | Finishing final raport and submit task |
+
 
 ## Booking System phase 2
 
